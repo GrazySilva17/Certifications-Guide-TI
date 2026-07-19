@@ -8,10 +8,12 @@ Explore as grandes áreas de TI e os cursos/certificações já cadastrados no n
 *Certificações e cursos focados em dominar linguagens de desenvolvimento.*
 - a definir
 
-### 🔒 [Segurança da Informação](./cybersecurity.md)
+### 🔒 [Segurança da Informação](./seguranca.md)
+*Para quem quer seguir a trilha de defesa, ataque, governança ou privacidade.*
 - a definir
 
-### 🗄️ [Banco de Dados](./banco-de-dados.md)
+### 🗄️ [Banco de Dados](./bancoDados.md)
 *Focado em administração, tuning, análise e linguagem de banco de dados.*
 *   [SQL (Structured Query Language) - FGV](./banco-de-dados.md#️-sql-structured-query-language---fgv)
 
+---
